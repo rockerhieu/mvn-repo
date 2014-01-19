@@ -5,7 +5,7 @@ Simply add the repository to your build.gradle file:
 
     repositories {
         maven {
-            url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+            url 'https://github.com/rockerhieu/mvn-repo/raw/master/'
         }
         mavenCentral()
     }
@@ -13,6 +13,7 @@ Simply add the repository to your build.gradle file:
 And you can use the artifacts like this:
 
     dependencies {
+        compile 'com.rockerhieu.emojicon:library:1.0'
         compile 'com.dropbox.chooser:android:1.0.0'
         compile 'com.facebook.android:facebook:3.6'
 
