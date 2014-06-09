@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.robolectric.gradle</groupId>
+  <artifactId>gradle-android-test-plugin</artifactId>
+  <version>0.10.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.10.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140609050933</lastUpdated>
+  </versioning>
+</metadata>

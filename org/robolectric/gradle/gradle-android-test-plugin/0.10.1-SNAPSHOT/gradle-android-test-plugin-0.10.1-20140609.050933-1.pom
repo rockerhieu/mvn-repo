@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.robolectric.gradle</groupId>
+  <artifactId>gradle-android-test-plugin</artifactId>
+  <version>0.10.1-SNAPSHOT</version>
+  <name>Gradle Android Test Plugin</name>
+  <description>A Gradle plugin which enables good 'ol fashioned unit tests for Android builds.</description>
+  <url>https://github.com/robolectric/gradle-android-test-plugin</url>
+  <inceptionYear>2013</inceptionYear>
+  <organization>
+    <name>Square, Inc.</name>
+    <url>http://squareup.com</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>squaregithub</id>
+      <name>Square Open Source Development</name>
+      <email>jobs@squareup.com</email>
+    </developer>
+    <developer>
+      <id>mike</id>
+      <name>Mike Grafton</name>
+      <email>mike@pivotallabs.com</email>
+    </developer>
+    <developer>
+      <id>terry</id>
+      <name>Terry Chen</name>
+      <email>terry@pivotallabs.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/robolectric/gradle-android-test-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/robolectric/gradle-android-test-plugin.git</developerConnection>
+    <url>https://github.com/robolectric/gradle-android-test-plugin</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.codehaus.groovy</groupId>
+      <artifactId>groovy-all</artifactId>
+      <version>2.2.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>gradle</artifactId>
+      <version>0.11.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.10</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.easytesting</groupId>
+      <artifactId>fest-assert-core</artifactId>
+      <version>2.0M10</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
