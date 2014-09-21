@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.activeandroid</groupId>
+  <artifactId>activeandroid</artifactId>
+  <version>3.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140921.112248</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140921112248</lastUpdated>
+  </versioning>
+</metadata>
