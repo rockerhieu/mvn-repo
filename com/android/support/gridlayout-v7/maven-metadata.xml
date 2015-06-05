@@ -11,8 +11,13 @@
       <version>19.0.1</version>
       <version>19.1.0</version>
       <version>20.0.0</version>
-      <version>21.0.0-rc1</version>
+      <version>21.0.0</version>
+      <version>21.0.2</version>
+      <version>21.0.3</version>
+      <version>22.0.0</version>
+      <version>22.1.0</version>
+      <version>22.2.0</version>
     </versions>
-    <lastUpdated>20140620222550</lastUpdated>
+    <lastUpdated>20150521233201</lastUpdated>
   </versioning>
 </metadata>
