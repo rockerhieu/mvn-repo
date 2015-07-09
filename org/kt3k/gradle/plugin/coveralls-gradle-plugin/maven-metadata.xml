@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kt3k.gradle.plugin</groupId>
+  <artifactId>coveralls-gradle-plugin</artifactId>
+  <version>2.0.1xx</version>
+  <versioning>
+    <versions>
+      <version>2.0.1xx</version>
+    </versions>
+    <lastUpdated>20150709120656</lastUpdated>
+  </versioning>
+</metadata>
