@@ -8,22 +8,22 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.android.support.test</groupId>
-      <artifactId>runner</artifactId>
-      <version>0.4</version>
-      <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.squareup</groupId>
       <artifactId>javawriter</artifactId>
       <version>2.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support.test.espresso</groupId>
-      <artifactId>espresso-idling-resource</artifactId>
-      <version>2.2.1</version>
+      <groupId>com.android.support.test</groupId>
+      <artifactId>runner</artifactId>
+      <version>0.4.1</version>
+      <type>aar</type>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support.test</groupId>
+      <artifactId>rules</artifactId>
+      <version>0.4.1</version>
       <type>aar</type>
       <scope>compile</scope>
     </dependency>
@@ -52,16 +52,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support.test</groupId>
-      <artifactId>rules</artifactId>
-      <version>0.4</version>
-      <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>javax.annotation</groupId>
       <artifactId>javax.annotation-api</artifactId>
       <version>1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support.test.espresso</groupId>
+      <artifactId>espresso-idling-resource</artifactId>
+      <version>2.2.1</version>
+      <type>aar</type>
       <scope>compile</scope>
     </dependency>
   </dependencies>
