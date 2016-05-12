@@ -3,7 +3,7 @@
   <groupId>com.android.support</groupId>
   <artifactId>preference-v14</artifactId>
   <versioning>
-    <release>24.0.0-alpha2</release>
+    <release>23.4.0</release>
     <versions>
       <version>23.0.0</version>
       <version>23.0.1</version>
@@ -14,7 +14,8 @@
       <version>23.2.1</version>
       <version>23.3.0</version>
       <version>24.0.0-alpha2</version>
+      <version>23.4.0</version>
     </versions>
-    <lastUpdated>20160412020007</lastUpdated>
+    <lastUpdated>20160507003652</lastUpdated>
   </versioning>
 </metadata>
